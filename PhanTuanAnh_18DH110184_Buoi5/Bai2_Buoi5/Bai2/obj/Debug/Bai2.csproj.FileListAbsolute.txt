@@ -1,0 +1,40 @@
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\bin\Debug\Bai2.exe.config
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\bin\Debug\Bai2.exe
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\bin\Debug\Bai2.pdb
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.csprojAssemblyReference.cache
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.Form1.resources
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.exe
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.pdb
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\bin\Debug\Bai2.exe.config
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\bin\Debug\Bai2.exe
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\bin\Debug\Bai2.pdb
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.csprojAssemblyReference.cache
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.Form1.resources
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.exe
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai2\Bai2\obj\Debug\Bai2.pdb
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai2_Buoi5\Bai2\bin\Debug\Bai2.exe.config
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai2_Buoi5\Bai2\bin\Debug\Bai2.exe
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai2_Buoi5\Bai2\bin\Debug\Bai2.pdb
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.csprojAssemblyReference.cache
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.FormBai2.resources
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.exe
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.pdb
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi5\Bai2_Buoi5\Bai2\bin\Debug\Bai2.exe.config
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi5\Bai2_Buoi5\Bai2\bin\Debug\Bai2.exe
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi5\Bai2_Buoi5\Bai2\bin\Debug\Bai2.pdb
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.csprojAssemblyReference.cache
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.FormBai2.resources
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.exe
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi5\Bai2_Buoi5\Bai2\obj\Debug\Bai2.pdb

@@ -1,0 +1,30 @@
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\bin\Debug\Bai1.exe.config
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\bin\Debug\Bai1.exe
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\bin\Debug\Bai1.pdb
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.csprojAssemblyReference.cache
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.exe
+E:\GITHUB\Lập trình Windows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.pdb
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\bin\Debug\Bai1.exe.config
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\bin\Debug\Bai1.exe
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\bin\Debug\Bai1.pdb
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.csprojAssemblyReference.cache
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.exe
+E:\GITHUB\LTWindows\Phan Tuấn Anh-18dh110184\Thực hành buổi 5\Bai1\Bai1\obj\Debug\Bai1.pdb
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai1_Buoi5\Bai1\bin\Debug\Bai1.exe.config
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai1_Buoi5\Bai1\bin\Debug\Bai1.exe
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai1_Buoi5\Bai1\bin\Debug\Bai1.pdb
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai1_Buoi5\Bai1\obj\Debug\Bai1.csprojAssemblyReference.cache
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai1_Buoi5\Bai1\obj\Debug\Bai1.FormBai1.resources
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai1_Buoi5\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai1_Buoi5\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai1_Buoi5\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai1_Buoi5\Bai1\obj\Debug\Bai1.exe
+E:\GITHUB\LT-Windows\Phan Tuấn Anh_18DH110184_Buổi 5\Bai1_Buoi5\Bai1\obj\Debug\Bai1.pdb
