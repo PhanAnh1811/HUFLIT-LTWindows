@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Bai3\Bai3\bin\Debug\Bai3.exe.config
+C:\Users\pc\source\repos\Bai3\Bai3\bin\Debug\Bai3.exe
+C:\Users\pc\source\repos\Bai3\Bai3\bin\Debug\Bai3.pdb
+C:\Users\pc\source\repos\Bai3\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Bai3\Bai3\obj\Debug\Bai3.exe
+C:\Users\pc\source\repos\Bai3\Bai3\obj\Debug\Bai3.pdb
+C:\Users\pc\source\repos\Bai3\Bai3\obj\Debug\Bai3.csprojAssemblyReference.cache

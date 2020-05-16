@@ -1,0 +1,7 @@
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi1\Bai5_Buoi1\Bai5\Bai5\bin\Debug\Bai5.exe.config
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi1\Bai5_Buoi1\Bai5\Bai5\bin\Debug\Bai5.exe
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi1\Bai5_Buoi1\Bai5\Bai5\bin\Debug\Bai5.pdb
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi1\Bai5_Buoi1\Bai5\Bai5\obj\Debug\Bai5.csprojAssemblyReference.cache
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi1\Bai5_Buoi1\Bai5\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi1\Bai5_Buoi1\Bai5\Bai5\obj\Debug\Bai5.exe
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi1\Bai5_Buoi1\Bai5\Bai5\obj\Debug\Bai5.pdb
