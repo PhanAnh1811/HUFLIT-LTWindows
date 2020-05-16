@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Bai5\Bai5\bin\Debug\Bai5.exe.config
+C:\Users\pc\source\repos\Bai5\Bai5\bin\Debug\Bai5.exe
+C:\Users\pc\source\repos\Bai5\Bai5\bin\Debug\Bai5.pdb
+C:\Users\pc\source\repos\Bai5\Bai5\obj\Debug\Bai5.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Bai5\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Bai5\Bai5\obj\Debug\Bai5.exe
+C:\Users\pc\source\repos\Bai5\Bai5\obj\Debug\Bai5.pdb
