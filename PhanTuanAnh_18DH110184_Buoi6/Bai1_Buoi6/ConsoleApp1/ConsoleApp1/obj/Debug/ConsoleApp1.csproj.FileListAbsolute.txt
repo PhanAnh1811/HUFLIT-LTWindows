@@ -1,0 +1,7 @@
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi6\Bai1_Buoi6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi6\Bai1_Buoi6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi6\Bai1_Buoi6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi6\Bai1_Buoi6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi6\Bai1_Buoi6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi6\Bai1_Buoi6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi6\Bai1_Buoi6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
