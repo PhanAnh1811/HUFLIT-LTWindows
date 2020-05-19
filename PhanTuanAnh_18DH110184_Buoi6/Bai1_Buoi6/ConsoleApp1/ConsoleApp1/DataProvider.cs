@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
 
-namespace ConsoleApp1
+namespace Bai1_Buoi6
 {
     class DataProvider
     {
@@ -16,27 +16,20 @@ namespace ConsoleApp1
         public void ListProduct()
         {
             connection = new SqlConnection(connectionString);
-            string queryString = "SELECT * FROM ThucUong;";
+            string queryString = "Select * From ThucUong;";
             SqlCommand command = new SqlCommand(queryString, connection);
 
-            try
-            {
-                connection.Open();
+            connection.Open();
 
-                SqlDataReader reader = command.ExecuteReader();
-                while (reader.Read())
-                {
-                    Console.WriteLine("\t{0}\t{1}\t{2}",
-                        reader[0], reader[1], reader[2]);
-                }
-                reader.Close();
-            }
-            catch (Exception ex)
+            SqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine("\t{0}\t{1}\t{2}",
+                    reader[0], reader[1], reader[2]);
             }
-            Console.ReadKey();
+            reader.Close();
         }
+
         public void AddProduct(string MSHH, string TenHang, int Gia, int TinhTrang)
         {
             connection = new SqlConnection(connectionString);
@@ -97,7 +90,7 @@ namespace ConsoleApp1
         public void ListBill()
         {
             connection = new SqlConnection(connectionString);
-            string queryString = "SELECT * FROM HoaDon;";
+            string queryString = "Select * From HoaDon;";
             SqlCommand command = new SqlCommand(queryString, connection);
 
             connection.Open();
@@ -150,10 +143,10 @@ namespace ConsoleApp1
             reader.Close();
         }
 
-        public void ListDetail()
+        public void Detail()
         {
             connection = new SqlConnection(connectionString);
-            string queryString = "SELECT * FROM HDChiTietDatHang;";
+            string queryString = "Select * From HDChiTietDatHang;";
             SqlCommand command = new SqlCommand(queryString, connection);
 
             connection.Open();

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Bai1_Buoi6
 {
     class Program
     {
@@ -13,9 +13,9 @@ namespace ConsoleApp1
             DataProvider Data = new DataProvider();
             Console.Write("Nhap ma so hang hoa: ");
             string mshh = Console.ReadLine();
-            Console.Write("Nhap ten Hang: ");
+            Console.Write("Nhap ten hang: ");
             string tenHang = Console.ReadLine();
-            Console.Write("Nhap gia: ");
+            Console.Write("Nhap Gia: ");
             int gia = int.Parse(Console.ReadLine());
             Console.Write("Nhap tinh trang: ");
             int tinhTrang = int.Parse(Console.ReadLine());
@@ -33,7 +33,7 @@ namespace ConsoleApp1
         static void Repair()
         {
             DataProvider Data = new DataProvider();
-            Console.Write("Nhap ma so hang hoa can sua: ");
+            Console.Write("Nhap MSHH Can Sua: ");
             string mshh = Console.ReadLine();
             Data.RepairProduct(mshh);
             Data.ListProduct();
@@ -42,7 +42,7 @@ namespace ConsoleApp1
         static void AddBill()
         {
             DataProvider Data = new DataProvider();
-            Console.Write("Nhap ma so hoa don: ");
+            Console.Write("Nhap MS Hoa Don: ");
             string msdh = Console.ReadLine();
             Data.CreateBill(msdh, "08/05/2020");
             Data.ListBill();
@@ -52,18 +52,17 @@ namespace ConsoleApp1
             DataProvider Data = new DataProvider();
             Console.WriteLine("DANH SACH CAC THUC UONG");
             Data.ListProduct();
-            Console.WriteLine("-------------------------------------");
             Console.Write("Nhap ma so hoa don: ");
             string msdh = Console.ReadLine();
             Console.Write("Vui long nhap ma so thuc uong ban muon order: ");
             string mshh = Console.ReadLine();
             Console.Write("Vui long nhap so luong ban muon order: ");
             int soLuong = int.Parse(Console.ReadLine());
-            Console.Write("Ti le giam cua sam pham ban order: ");
+            Console.Write("Vui long nhap ti le giam: ");
             int tiLeGiam = int.Parse(Console.ReadLine());
 
             Data.CreateDetailBill(msdh, mshh, soLuong, tiLeGiam);
-            Data.ListDetail();
+            Data.Detail();
         }
     }
 }
