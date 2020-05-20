@@ -38,17 +38,16 @@ namespace Bai1_Buoi6
             Data.RepairProduct(mshh);
             Data.ListProduct();
         }
-
-        static void AddBill()
+    
+        static void AddBill(string msdh)
         {
             DataProvider Data = new DataProvider();
-            Console.Write("Nhap MS Hoa Don: ");
-            string msdh = Console.ReadLine();
             Data.CreateBill(msdh, "08/05/2020");
-            Data.ListBill();
+          
         }
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
             DataProvider Data = new DataProvider();
             Console.WriteLine("DANH SACH CAC THUC UONG");
             Data.ListProduct();
@@ -61,6 +60,7 @@ namespace Bai1_Buoi6
             Console.Write("Vui long nhap ti le giam: ");
             int tiLeGiam = int.Parse(Console.ReadLine());
 
+            AddBill(msdh);
             Data.CreateDetailBill(msdh, mshh, soLuong, tiLeGiam);
             Data.Detail();
         }

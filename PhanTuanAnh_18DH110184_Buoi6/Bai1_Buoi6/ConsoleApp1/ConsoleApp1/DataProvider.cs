@@ -72,9 +72,9 @@ namespace Bai1_Buoi6
             string queryString = "UPDATE ThucUong SET TenHang = @TenHang, Gia= @Gia WHERE MSHH=@MSHH";
 
             string mshh = MSHH;
-            Console.Write("Nhap Ten Hang Hoa Can Sua: ");
+            Console.Write("Nhap ten hang hoa can sua: ");
             string tenHang = Console.ReadLine();
-            Console.Write("Nhap Gia Can Sua: ");
+            Console.Write("Nhap gia can sua: ");
             string gia = Console.ReadLine();
 
             SqlCommand command = new SqlCommand(queryString, connection);
@@ -92,7 +92,7 @@ namespace Bai1_Buoi6
             connection = new SqlConnection(connectionString);
             string queryString = "Select * From HoaDon;";
             SqlCommand command = new SqlCommand(queryString, connection);
-
+            
             connection.Open();
 
             SqlDataReader reader = command.ExecuteReader();
@@ -124,7 +124,7 @@ namespace Bai1_Buoi6
         public void CreateDetailBill(string MSHD, string MSHH, int SoLuong, int TiLeGiam)
         {
             connection = new SqlConnection(connectionString);
-            string queryString = "INSERT INTO HDChiTietDatHang (MSHD, MSHH, SoLuong, TiLeGiam) VALUES (@MSHD, @MSHH, @SoLuong, @TiLeGiam);";
+            string queryString = "INSERT INTO DatHang (MSDH, MSHH, SoLuong, TiLeGiam) VALUES (@MSDH, @MSHH, @SoLuong, @TiLeGiam);";
 
 
             string mshh = MSHH;
@@ -133,7 +133,7 @@ namespace Bai1_Buoi6
             int tiLeGiam = TiLeGiam;
 
             SqlCommand command = new SqlCommand(queryString, connection);
-            command.Parameters.AddWithValue("@MSHD", mshd);
+            command.Parameters.AddWithValue("@MSDH", mshd);
             command.Parameters.AddWithValue("@MSHH", mshh);
             command.Parameters.AddWithValue("@SoLuong", soLuong);
             command.Parameters.AddWithValue("@TiLeGiam", tiLeGiam);
@@ -146,7 +146,7 @@ namespace Bai1_Buoi6
         public void Detail()
         {
             connection = new SqlConnection(connectionString);
-            string queryString = "Select * From HDChiTietDatHang;";
+            string queryString = "Select * From DatHang;";
             SqlCommand command = new SqlCommand(queryString, connection);
 
             connection.Open();
