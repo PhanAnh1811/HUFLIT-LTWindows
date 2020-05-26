@@ -34,7 +34,7 @@ namespace Bai1_Buoi7
         private void FormDelete_FormClosing(object sender, FormClosingEventArgs e)
         {
             this.Hide();
-            Form1 F1 = new Form1();
+            FormMain F1 = new FormMain();
             F1.ShowDialog();
         }
     }
