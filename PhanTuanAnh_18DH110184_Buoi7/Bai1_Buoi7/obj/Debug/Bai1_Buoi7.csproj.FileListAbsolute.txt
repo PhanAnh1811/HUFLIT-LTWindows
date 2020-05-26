@@ -9,3 +9,14 @@ E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\Bai1_Buoi7\Ba
 E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\Bai1_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.exe
 E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\Bai1_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.pdb
 E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\Bai1_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.Form1.resources
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\bin\Debug\Bai1_Buoi7.exe.config
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\bin\Debug\Bai1_Buoi7.exe
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\bin\Debug\Bai1_Buoi7.pdb
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.csprojAssemblyReference.cache
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.Form1.resources
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.FormEdit.resources
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.Properties.Resources.resources
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.csproj.GenerateResource.cache
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.csproj.CoreCompileInputs.cache
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.exe
+E:\GITHUB\HUFLIT-LTWindows\PhanTuanAnh_18DH110184_Buoi7\Bai1_Buoi7\obj\Debug\Bai1_Buoi7.pdb
